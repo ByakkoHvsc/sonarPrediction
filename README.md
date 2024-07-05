@@ -1,6 +1,4 @@
-# sonarPrediction
-
-##  Underwater Object Classification: Rock vs. Mine
+#  Underwater Object Classification: Rock vs. Mine
 
 This project tackles the challenge of identifying underwater objects as either rocks or mines using machine learning techniques. 
 
@@ -44,13 +42,7 @@ For a smooth experience using this project on your local machine, follow these s
    git clone https://github.com/ByakkoHvsc/sonarPrediction
    ```
 
-2. **Install Required Libraries:**
-   The project's dependencies are specified in a `requirements.txt` file. You can install them using:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Project:**
+2. **Run the Project:**
    Open a Jupyter Notebook environment and navigate to the project directory.
    Open the `Rock_vs_Mine_Prediction.ipynb` file and execute the code cells sequentially.
 
